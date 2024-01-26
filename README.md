@@ -5,6 +5,7 @@ Modelo de utilização e implentação de autenticação com uso de biometria co
 
 ## Configurações nescessárias:
 
+
 ### AndroidManifest.xml
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.app">
